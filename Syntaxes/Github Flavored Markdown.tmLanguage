@@ -10,7 +10,7 @@
 	<key>keyEquivalent</key>
 	<string>^~M</string>
 	<key>name</key>
-	<string>Github Flavored Markdown</string>
+	<string>Github-flavored Markdown</string>
 	<key>patterns</key>
 	<array>
 		<dict>
