@@ -5,7 +5,7 @@
 	<key>name</key>
 	<string>Style: Unordered List Punctuation</string>
 	<key>scope</key>
-	<string>punctuation.list.unordered</string>
+	<string>markdown.gfmd  punctuation.list.unordered</string>
 	<key>settings</key>
 	<dict>
 		<key>fontSize</key>

@@ -5,7 +5,7 @@
 	<key>name</key>
 	<string>Style: Punctuation</string>
 	<key>scope</key>
-	<string>punctuation.definition.*.markdown, punctuation.definition.*.*.markdown</string>
+	<string>markdown.gfmd punctuation.definition.*.markdown, markdown.gfmd punctuation.definition.*.*.markdown</string>
 	<key>settings</key>
 	<dict>
 		<key>fontSize</key>

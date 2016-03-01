@@ -5,7 +5,7 @@
 	<key>name</key>
 	<string>Style: Heading 2</string>
 	<key>scope</key>
-	<string>markup.heading.2</string>
+	<string>markdown.gfmd markup.heading.2</string>
 	<key>settings</key>
 	<dict>
 		<key>fontName</key>

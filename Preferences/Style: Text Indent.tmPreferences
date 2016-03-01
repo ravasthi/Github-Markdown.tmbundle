@@ -5,7 +5,7 @@
 	<key>name</key>
 	<string>Style: Text Indent</string>
 	<key>scope</key>
-	<string>markdown, string.unquoted.block.yaml</string>
+	<string>markdown, markdown.gfmd string.unquoted.block.yaml</string>
 	<key>settings</key>
 	<dict>
 		<key>indentedSoftWrap</key>

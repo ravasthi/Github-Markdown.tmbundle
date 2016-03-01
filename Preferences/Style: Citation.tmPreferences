@@ -5,7 +5,7 @@
 	<key>name</key>
 	<string>Style: Citation</string>
 	<key>scope</key>
-	<string>constant.other.symbol.citation</string>
+	<string>markdown.gfmd constant.other.symbol.citation</string>
 	<key>settings</key>
 	<dict>
 		<key>fontSize</key>

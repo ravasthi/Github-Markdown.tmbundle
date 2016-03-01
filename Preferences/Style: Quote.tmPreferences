@@ -5,7 +5,7 @@
 	<key>name</key>
 	<string>Style: Quote</string>
 	<key>scope</key>
-	<string>markup.quote.body</string>
+	<string>markdown.gfmd markup.quote.body</string>
 	<key>settings</key>
 	<dict>
 		<key>italic</key>

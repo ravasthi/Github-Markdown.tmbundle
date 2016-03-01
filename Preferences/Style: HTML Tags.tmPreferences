@@ -5,7 +5,7 @@
 	<key>name</key>
 	<string>Style: HTML Tags</string>
 	<key>scope</key>
-	<string>meta.tag.*.any.html, meta.liquid-template.html, string.other.liquid</string>
+	<string>markdown.gfmd meta.tag.*.any.html, markdown.gfmd meta.liquid-template.html, markdown.gfmd string.other.liquid</string>
 	<key>settings</key>
 	<dict/>
 	<key>uuid</key>
