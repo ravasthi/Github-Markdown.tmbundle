@@ -3,15 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Style: Heading 4</string>
+	<string>Style: Todobox</string>
 	<key>scope</key>
-	<string>markdown.gfmd markup.heading.4</string>
+	<string>punctuation.list.todobox</string>
 	<key>settings</key>
 	<dict>
+		<key>fontName</key>
+		<string>Fira Code</string>
 		<key>fontSize</key>
-		<string>1.3em</string>
+		<string>1em</string>
+		<key>foreground</key>
+		<string>#888888</string>
 	</dict>
 	<key>uuid</key>
-	<string>312ADA5D-17EC-4936-8596-5F76B9110B15</string>
+	<string>FEA32E27-F0EA-4162-B99F-45DEBF4C3FE7</string>
 </dict>
 </plist>

@@ -3,15 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Style: Heading 4</string>
+	<string>Folding URLs</string>
 	<key>scope</key>
-	<string>markdown.gfmd markup.heading.4</string>
+	<string>meta.link.inline.markdown</string>
 	<key>settings</key>
 	<dict>
-		<key>fontSize</key>
-		<string>1.3em</string>
+		<key>foldingStartMarker</key>
+		<string>\(</string>
+		<key>foldingStopMarker</key>
+		<string>\)</string>
 	</dict>
 	<key>uuid</key>
-	<string>312ADA5D-17EC-4936-8596-5F76B9110B15</string>
+	<string>D80DB88C-5241-492D-A84E-4B9B99777C93</string>
 </dict>
 </plist>

@@ -3,15 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Style: Heading 4</string>
+	<string>Style: Todo Completed</string>
 	<key>scope</key>
-	<string>markdown.gfmd markup.heading.4</string>
+	<string>markup.list.todo.completed</string>
 	<key>settings</key>
 	<dict>
-		<key>fontSize</key>
-		<string>1.3em</string>
+		<key>foreground</key>
+		<string>#888888</string>
 	</dict>
 	<key>uuid</key>
-	<string>312ADA5D-17EC-4936-8596-5F76B9110B15</string>
+	<string>58A4C444-69A7-46C8-AC34-537D2B9EA53F</string>
 </dict>
 </plist>

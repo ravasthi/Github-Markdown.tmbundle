@@ -5,13 +5,13 @@
 	<key>name</key>
 	<string>Style: Raw</string>
 	<key>scope</key>
-	<string>markdown.gfmd markup.raw.block, markdown.gfmd markup.raw, markdown.gfmd meta.raw.block, markdown.gfmd markup.raw.inline, markdown.gfmd meta.function.embedded, markdown.gfmd meta.block.embedded, markdown.gfmd string.other.math, markdown.gfmd meta.tag.inline.any.html, markdown.gfmd meta.tag.block.any.html, markdown.gfmd source.embedded.html, markdown.gfmd string.other.liquid, markdown.gfmd attributes.markdown, markdown.gfmd meta.frontmatter</string>
+	<string>markup.raw.block, markup.raw, meta.raw.block, markup.raw.inline, meta.function.embedded, meta.block.embedded, string.other.math, meta.tag.inline.any.html, meta.tag.block.any.html, source.embedded.html, string.other.liquid, meta.frontmatter</string>
 	<key>settings</key>
 	<dict>
 		<key>fontName</key>
 		<string>Hack</string>
 		<key>fontSize</key>
-		<string>1.0em</string>
+		<string>1em</string>
 		<key>indentedSoftWrap</key>
 		<dict>
 			<key>format</key>

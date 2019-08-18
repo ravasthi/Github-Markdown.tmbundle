@@ -2,16 +2,18 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>content</key>
+	<string>\`\`\`bash
+${1}
+\`\`\`
+</string>
 	<key>name</key>
-	<string>Style: Heading 4</string>
+	<string>Code block: bash</string>
 	<key>scope</key>
-	<string>markdown.gfmd markup.heading.4</string>
-	<key>settings</key>
-	<dict>
-		<key>fontSize</key>
-		<string>1.3em</string>
-	</dict>
+	<string>markdown.gfmd</string>
+	<key>tabTrigger</key>
+	<string>bash</string>
 	<key>uuid</key>
-	<string>312ADA5D-17EC-4936-8596-5F76B9110B15</string>
+	<string>9EC69E9A-CD7C-4CDA-A361-EF64278F1813</string>
 </dict>
 </plist>
